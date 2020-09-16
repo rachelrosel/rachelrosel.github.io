@@ -1,0 +1,15 @@
+body {
+	text-align: center;
+	background-color: #F5DEFF;
+	font-weight:normal;
+}
+
+h1 {
+	color: #DE91FF;
+} 
+p {
+	font-family: "Optima", sans-serif;
+	font-weight: bold;
+	color: #DE91FF;
+	font-style: italic ;
+}
